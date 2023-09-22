@@ -1,6 +1,6 @@
 # Gerador de Senhas
 
-Este é um projeto simples de gerador de senhas em HTLM, CSS E JavaScript. Com ele, você pode criar senhas seguras com facilidade.
+Este é um projeto simples de gerador de senhas ultilizando HTLM, CSS E JavaScript. Com ele, você pode criar senhas seguras com facilidade.
 
 ## Recursos
 
